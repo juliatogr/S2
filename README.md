@@ -2,7 +2,7 @@
 
 The video bbb.mp4 has low quality because it occupies less memory. Please, use the original video when running bbb_histogram.py
 
-repo link: https://github.com/juliatogr/S2.git
+repo link: https://github.com/juliatogr/S2
 
 Ex2 links:
 
